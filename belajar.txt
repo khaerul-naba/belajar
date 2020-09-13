@@ -4,4 +4,4 @@ khaerul ansari
 -front and developer 
 -web developer
 -membuat web toko online
--membuat aplication
+-membuat aplikasi flutter
