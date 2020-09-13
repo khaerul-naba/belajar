@@ -3,3 +3,5 @@ khaerul ansari
 -flutter
 -front and developer 
 -web developer
+-membuat web toko online
+-membuat aplication
