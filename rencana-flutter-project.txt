@@ -1,0 +1,6 @@
+Membuat aplikasi flutter
+-toko online
+-toko penjualan
+
+membuat aplikasi konsistren
+-membuat aplikasi skripsi
