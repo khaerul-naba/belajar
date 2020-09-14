@@ -2,5 +2,10 @@ Membuat aplikasi flutter
 -toko online
 -toko penjualan
 
+orang 2 menambahkan 
+-flutter penjualan baju
+
 membuat aplikasi konsistren
 -membuat aplikasi skripsi
+
+2.ayo belajar sekali"
