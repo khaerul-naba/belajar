@@ -2,10 +2,14 @@ Membuat aplikasi flutter
 -toko online
 -toko penjualan
 
+
 prang 1 menambhakan 
 -aplikasi tentang penjualan pertanian
+
 
 membuat aplikasi konsistren
 -membuat aplikasi skripsi
 
+
 1- konsisten dalam belajar
+
